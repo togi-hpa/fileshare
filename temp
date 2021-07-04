@@ -1,0 +1,4 @@
+curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-347.0.0-linux-x86.tar.gz
+./google-cloud-sdk/bin/gcloud init
+https://github.com/googleapis/google-cloud-go
+https://pkg.go.dev/cloud.google.com/go
