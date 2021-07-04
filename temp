@@ -5,3 +5,4 @@ https://pkg.go.dev/cloud.google.com/go
 
 https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8085%2F&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&state=qle9n51FnEuHeTmRdwWEdVtS7SZoOZ&access_type=offline&code_challenge=jbHr3qWU9xQtqpuEabe_B6F8U_AEjVssRP1tjuGGaMU&code_challenge_method=S256
 gcloud app instances ssh "aef-default-20210704t131201-7q1b" --service "default" --version "20210704t131201" --project "radaba-development"
+https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/master/appengine/hello-world/flexible/app.js
